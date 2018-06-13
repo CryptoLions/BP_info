@@ -40,7 +40,7 @@
 			"is_producer": false,
 			"p2p_endpoint": "bp01.cryptolions.io:19876",
 			"api_endpoint": "http://bp.cryptolions.io:8888",
-			"bnet_endpoint": "http://bp.cryptolions.io:9875",
+			"bnet_endpoint": "bp.cryptolions.io:9875",
 			"ssl_endpoint": ""
 		},
 		{
@@ -53,7 +53,7 @@
 			"is_producer": false,
 			"p2p_endpoint": "bp01.cryptolions.io:29876",
 			"api_endpoint": "http://bp.cryptolions.io:8888",
-			"bnet_endpoint": "http://bp.cryptolions.io:9875",
+			"bnet_endpoint": "bp.cryptolions.io:9875",
 			"ssl_endpoint": ""
 		}
 	]

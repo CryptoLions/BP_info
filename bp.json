@@ -33,7 +33,7 @@
 	"nodes": [
 		{
 			"location": {
-				"name": "Germany-Finldans",
+				"name": "Germany-Finland",
 				"country": "DE",
 				"latitude": 51.2993,
 				"longitude": 9.491
@@ -42,7 +42,7 @@
 			"p2p_endpoint": "bp.cryptolions.io:9876",
 			"api_endpoint": "http://bp.cryptolions.io:8888",
 			"bnet_endpoint": "bp.cryptolions.io:9875",
-			"ssl_endpoint": "https://bp.cryptolions.io:443"
+			"ssl_endpoint": "https://bp.cryptolions.io"
 		}
 	]
 }

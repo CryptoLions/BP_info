@@ -8,9 +8,9 @@
 		"email": "roar@cryptolions.io",
 		"ownership_disclosure": "https://steemit.com/eos/@cryptolions/cryptolions-cap-table-disclosure",
 		"branding": {
-			"logo_256": "http://imgs.cryptolions.io/logo_256.png",
-			"logo_1024": "http://imgs.cryptolions.io/logo_1024.png",
-			"logo_svg": "http://imgs.cryptolions.io/logo.svg"
+			"logo_256": "https://imgs.cryptolions.io/logo_256.png",
+			"logo_1024": "https://imgs.cryptolions.io/logo_1024.png",
+			"logo_svg": "https://imgs.cryptolions.io/logo.svg"
 		},
 		"location": {
 			"name": "Ukraine",
@@ -40,9 +40,10 @@
 			},
 			"is_producer": false,
 			"p2p_endpoint": "bp.cryptolions.io:9876",
-			"api_endpoint": "http://bp.cryptolions.io:8888",
+			"api_endpoint": "http://bp.cryptolions.io",
 			"bnet_endpoint": "bp.cryptolions.io:9875",
 			"ssl_endpoint": "https://bp.cryptolions.io"
 		}
+		
 	]
 }

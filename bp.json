@@ -39,6 +39,7 @@
 				"longitude": 9.491
 			},
 			"is_producer": false,
+			"node_type": "full",
 			"p2p_endpoint": "bp.cryptolions.io:9876",
 			"api_endpoint": "http://bp.cryptolions.io",
 			"bnet_endpoint": "bp.cryptolions.io:9875",

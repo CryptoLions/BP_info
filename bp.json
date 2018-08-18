@@ -51,7 +51,7 @@
 			},
 			"node_type": "seed",
 			"p2p_endpoint": "bp.cryptolions.io:9876",
-			"bnet_endpoint": "bp.cryptolions.io:9875",
+			"bnet_endpoint": "bp.cryptolions.io:9875"
 		},
 		{
 			"location": {

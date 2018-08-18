@@ -39,10 +39,32 @@
 				"longitude": 9.491
 			},
 			"node_type": "full",
-			"p2p_endpoint": "bp.cryptolions.io:9876",
 			"api_endpoint": "http://bp.cryptolions.io",
-			"bnet_endpoint": "bp.cryptolions.io:9875",
 			"ssl_endpoint": "https://bp.cryptolions.io"
+		},
+		{
+			"location": {
+				"name": "Germany-Finland",
+				"country": "DE",
+				"latitude": 51.2993,
+				"longitude": 9.491
+			},
+			"node_type": "seed",
+			"p2p_endpoint": "bp.cryptolions.io:9876",
+			"bnet_endpoint": "bp.cryptolions.io:9875",
+		},
+		{
+			"location": {
+				"name": "Germany",
+				"country": "DE",
+				"latitude": 51.2993,
+				"longitude": 9.491
+			},
+			"node_type": "producer",
+			"p2p_endpoint": "",
+			"api_endpoint": "",
+			"bnet_endpoint": "",
+			"ssl_endpoint": ""
 		}
 		
 	]

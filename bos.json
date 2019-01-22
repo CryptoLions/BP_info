@@ -38,8 +38,8 @@
 				"longitude": 9.491
 			},
 			"node_type": "full",
-			"api_endpoint": "http://bos.cryptolions.io:80",
-			"ssl_endpoint": "https://bos.cryptolions.io:443"
+			"api_endpoint": "http://bos.cryptolions.io:1888",
+			"ssl_endpoint": "https://bos.cryptolions.io"
 		},
 		{
 			"location": {

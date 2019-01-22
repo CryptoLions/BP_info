@@ -1,7 +1,6 @@
 {
 	"producer_account_name": "cryptolions1",
-	"producer_public_key": "EOS5yHaUBwhpwFftNjADdVwBpCVybLPg5P3z7HpTbDGjUfpqwWSSf",
-	"org": {
+	    "org": {
 		"candidate_name": "CryptoLions",
 		"website": "https://CryptoLions.io",
 		"code_of_conduct": "https://steemit.com/eos/@cryptolions/crypto-lions-policy-positions-and-code-of-conduct",

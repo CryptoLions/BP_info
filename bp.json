@@ -37,7 +37,7 @@
 				"latitude": 51.2993,
 				"longitude": 9.491
 			},
-			"node_type": "full",
+			"node_type": "query",
 			"api_endpoint": "http://bp.cryptolions.io",
 			"ssl_endpoint": "https://bp.cryptolions.io"
 		},
@@ -51,6 +51,17 @@
 			"node_type": "seed",
 			"p2p_endpoint": "bp.cryptolions.io:9876",
 			"bnet_endpoint": ""
+		},
+		{
+			"location": {
+				"name": "Germany",
+				"country": "DE",
+				"latitude": 51.2993,
+				"longitude": 9.491
+			},
+			"node_type": "full",
+			"api_endpoint": "http://history.cryptolions.io",
+			"ssl_endpoint": "https://history.cryptolions.io"
 		},
 		{
 			"location": {

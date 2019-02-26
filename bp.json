@@ -37,7 +37,8 @@
 				"latitude": 51.2993,
 				"longitude": 9.491
 			},
-			"node_type": "query",
+			"node_type": "full",
+			"history_type":  "none",
 			"api_endpoint": "http://bp.cryptolions.io",
 			"ssl_endpoint": "https://bp.cryptolions.io"
 		},
@@ -60,6 +61,7 @@
 				"longitude": 9.491
 			},
 			"node_type": "full",
+			"history_type":  "mongo"
 			"api_endpoint": "http://history.cryptolions.io",
 			"ssl_endpoint": "https://history.cryptolions.io"
 		},

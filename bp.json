@@ -61,7 +61,7 @@
 				"longitude": 9.491
 			},
 			"node_type": "full",
-			"history_type":  "mongo"
+			"history_type":  "mongo",
 			"api_endpoint": "http://history.cryptolions.io",
 			"ssl_endpoint": "https://history.cryptolions.io"
 		},

@@ -1,35 +1,34 @@
-
 {
 	"producer_account_name": "cryptolion.m",
-	    "org": {
-		"candidate_name": "CryptoLions",
-		"website": "https://cryptolions.io",
-		"code_of_conduct": "https://steemit.com/eos/@cryptolions/updated-crytpolions-code-of-conduct",
-		"email": "roar@cryptolions.io",
-		"ownership_disclosure": "https://steemit.com/eos/@cryptolions/cryptolions-cap-table-disclosure",
-		"branding": {
-			"logo_256": "https://imgs.cryptolions.io/logo_256.png",
-			"logo_1024": "https://imgs.cryptolions.io/logo_1024.png",
-			"logo_svg": "https://imgs.cryptolions.io/logo.svg"
+		"org": {
+			"candidate_name": "CryptoLions",
+			"website": "https://cryptolions.io",
+			"code_of_conduct": "https://steemit.com/eos/@cryptolions/updated-crytpolions-code-of-conduct",
+			"email": "roar@cryptolions.io",
+			"ownership_disclosure": "https://steemit.com/eos/@cryptolions/cryptolions-cap-table-disclosure",
+			"branding": {
+				"logo_256": "https://imgs.cryptolions.io/logo_256.png",
+				"logo_1024": "https://imgs.cryptolions.io/logo_1024.png",
+				"logo_svg": "https://imgs.cryptolions.io/logo.svg"
+			},
+			"location": {
+				"name": "Ukraine",
+				"country": "UA",
+				"latitude": 49.8397,
+				"longitude": 24.0297
+			},
+			"social": {
+				"steemit": "cryptolions",
+				"twitter": "EOS_CryptoLions",
+				"youtube": "UCB7F-KO0mmZ1yVBCq0_1gtA",
+				"facebook": "",
+				"github": "CryptoLions",
+				"reddit": "",
+				"keybase": "cryptolions",
+				"telegram": "CryptoLions_io",
+				"wechat": ""
+			}
 		},
-		"location": {
-			"name": "Ukraine",
-			"country": "UA",
-			"latitude": 49.8397,
-			"longitude": 24.0297
-		},
-		"social": {
-			"steemit": "cryptolions",
-			"twitter": "EOS_CryptoLions",
-			"youtube": "UCB7F-KO0mmZ1yVBCq0_1gtA",
-			"facebook": "",
-			"github": "CryptoLions",
-			"reddit": "",
-			"keybase": "cryptolions",
-			"telegram": "CryptoLions_io",
-			"wechat": ""
-		}
-	},
 	"nodes": [
 		{
 			"location": {
@@ -67,6 +66,6 @@
 			"bnet_endpoint": "",
 			"ssl_endpoint": ""
 		}
-		
+
 	]
 }

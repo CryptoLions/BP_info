@@ -67,6 +67,18 @@
 		},
 		{
 			"location": {
+				"name": "Finland",
+				"country": "FI",
+				"latitude": 60.169 ,
+				"longitude": 24.936
+			},
+			"node_type": "full",
+			"history_type":  "light",
+			"api_endpoint": "http://lhistory.cryptolions.io",
+			"ssl_endpoint": "https://lhistory.cryptolions.io"
+		},
+		{
+			"location": {
 				"name": "Germany",
 				"country": "DE",
 				"latitude": 51.2993,

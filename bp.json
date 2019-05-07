@@ -60,18 +60,6 @@
 				"latitude": 51.2993,
 				"longitude": 9.491
 			},
-			"node_type": "full",
-			"history_type":  "mongo",
-			"api_endpoint": "http://history.cryptolions.io",
-			"ssl_endpoint": "https://history.cryptolions.io"
-		},
-		{
-			"location": {
-				"name": "Germany",
-				"country": "DE",
-				"latitude": 51.2993,
-				"longitude": 9.491
-			},
 			"node_type": "producer",
 			"p2p_endpoint": "",
 			"api_endpoint": "",

@@ -38,6 +38,7 @@
 				"longitude": 9.491
 			},
 			"node_type": "full",
+			"history_type":  "none",
 			"api_endpoint": "http://xec.cryptolions.io",
 			"ssl_endpoint": "https://xec.cryptolions.io"
 		},

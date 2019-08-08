@@ -3,9 +3,9 @@
 	"org": {
 		"candidate_name": "CryptoLions",
 		"website": "https://cryptolions.io",
-		"code_of_conduct": "https://steemit.com/eos/@cryptolions/updated-crytpolions-code-of-conduct",
+		"code_of_conduct": "https://cryptolions.io/code-of-conduct/",
 		"email": "roar@cryptolions.io",
-		"ownership_disclosure": "https://steemit.com/eos/@cryptolions/cryptolions-cap-table-disclosure",
+		"ownership_disclosure": "https://cryptolions.io/ownership-disclosure/",
 		"branding": {
 			"logo_256": "https://imgs.cryptolions.io/logo_256.png",
 			"logo_1024": "https://imgs.cryptolions.io/logo_1024.png",
